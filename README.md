@@ -1,2 +1,4 @@
 # hello-world
-hello word repository example
+hello world repository example
+
+Hello world is my first attempt at using GitHub
